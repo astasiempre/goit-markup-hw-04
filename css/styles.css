@@ -355,16 +355,11 @@ body {
 }
 
 .customers-list-item {
-  border: 1px solid #8e8f99;
-  border-radius: 4px;
   width: calc((100% - 120px) / 6);
   height: 88px;
 }
 
-.customers-list-item:hover,
-.customers-list-item:focus {
-  border-color: var(--accent-text-color);
-}
+
 
 .customers-list-link {
   width: 100%;
